@@ -1,6 +1,7 @@
 # Arknights UI Remastered：H5 + CSS + Vue 复刻明日方舟主界面
-demo(http://ak.246868.xyz/)
-衍生自[mashirozx/arknights-ui](https://github.com/mashirozx/arknights-ui)(https://github.com/ngc7331/arknights-ui-remastered)
+DEMOhttps://ak.246868.xyz
+
+衍生自[mashirozx/arknights-ui](https://github.com/mashirozx/arknights-ui)
 
 ![Update Data](https://github.com/ngc7331/arknights-ui-remastered/actions/workflows/update_data.yml/badge.svg)
 ![Github Pages](https://img.shields.io/github/deployments/ngc7331/arknights-ui-remastered/github-pages?label=Github%20Pages)
