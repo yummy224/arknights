@@ -1,11 +1,11 @@
 # Arknights UI Remastered：H5 + CSS + Vue 复刻明日方舟主界面
-
-衍生自[mashirozx/arknights-ui](https://github.com/mashirozx/arknights-ui)
+demo(http://ak.246868.xyz/)
+衍生自[mashirozx/arknights-ui](https://github.com/mashirozx/arknights-ui)(https://github.com/ngc7331/arknights-ui-remastered)
 
 ![Update Data](https://github.com/ngc7331/arknights-ui-remastered/actions/workflows/update_data.yml/badge.svg)
 ![Github Pages](https://img.shields.io/github/deployments/ngc7331/arknights-ui-remastered/github-pages?label=Github%20Pages)
 
-## 小造BB
+## 小造
 作为一个h5、css、javascript外加vue.js的四重初学者（要学的怎么越来越多了啊喂）和一个学生党，我因为对明日方舟的厨力开始尝试更新此项目。
 
 如果您对于我有任何建议（包括使用Github的方式、写代码的格式、命名规范等等）请不吝赐教，谢谢。
