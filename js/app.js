@@ -1,4 +1,4 @@
-/*!
+/*! figure_total
  * Author: xu_zh, AKA ngc7331
  * License: MIT
  */
@@ -7,15 +7,15 @@ var app = new Vue({
   data: {
     version: '2.1.1',
     volume: 20,
-    username: '小造xu_zh',
+    username: '栽树乘凉',
     userid: 27975991,
-    userlv: 119,
+    userlv: 120,
     battlelv: '全部完成',
-    money: '114514',
-    jasper: '1919',
+    money: '246868',
+    jasper: '2468',
     stone: '+∞',
     dialog: '欢迎回来，博士',
-    figure_total: 135,
+    figure_total: 200,
     boxes: {
       infoBox: 'hidden',
       charBox: 'hidden',
