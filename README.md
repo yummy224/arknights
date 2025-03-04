@@ -1,10 +1,15 @@
 # Arknights UI Remastered：H5 + CSS + Vue 复刻明日方舟主界面
-DEMOhttps://ak.246868.xyz
 
 衍生自[mashirozx/arknights-ui](https://github.com/mashirozx/arknights-ui)
 
 ![Update Data](https://github.com/ngc7331/arknights-ui-remastered/actions/workflows/update_data.yml/badge.svg)
 ![Github Pages](https://img.shields.io/github/deployments/ngc7331/arknights-ui-remastered/github-pages?label=Github%20Pages)
+
+[DEMO](https://ak.246868.xyz)
+
+## DEMO
+Github page：<https://ngc7331.github.io/arknights-ui-remastered/>
+国内请尝试Gitee：<https://xu_zh.gitee.io/arknights-ui-remastered/>
 
 ## 小造
 作为一个h5、css、javascript外加vue.js的四重初学者（要学的怎么越来越多了啊喂）和一个学生党，我因为对明日方舟的厨力开始尝试更新此项目。
@@ -29,7 +34,7 @@ DEMOhttps://ak.246868.xyz
 ## Change log
 - 2021-04-25 使用Github Actions自动更新立绘
 - 2021-04-02 使用Github Actions自动更新BGM列表
-- 2021-04-01 什么都没有更新？什么？你说按`F12`在控制台输入`HappyAprilFoolsDay(1)`有奇效？才没有呢！
+- 2021-04-01 你都更新了什么啊？千万别按`F12`在控制台输入`HappyAprilFoolsDay(1)`
 - 2021-03-27 V2.1.1 更新`update_bgmlist.py`，修改部分数据结构
 - 2021-03-25 增加`update_bgmlist.py`用于自动从网易云获取BGM，修复bgm相关bug
 - 2021-03-05 V2.1 增加立绘缩放的功能
@@ -45,11 +50,6 @@ DEMOhttps://ak.246868.xyz
 - 整合剧情回放、抽卡模拟等功能？
 - ...
 - 要学的还很多啊
-
-## DEMO
-Github page：<https://ngc7331.github.io/arknights-ui-remastered/>
-
-国内请尝试Gitee：<https://xu_zh.gitee.io/arknights-ui-remastered/>
 
 ## 版权相关
 界面贴图素材都是游戏逆向出来的，仅供学习使用，请勿商用。
